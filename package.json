@@ -1,0 +1,24 @@
+{
+  "name": "vallarta-rents",
+  "version": "1.0.0",
+  "description": "Vacation Rental App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsevillap/Vallarta-Rents.git"
+  },
+  "keywords": [
+    "Rentals",
+    "App",
+    "Node"
+  ],
+  "author": "Jesus Sevilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsevillap/Vallarta-Rents/issues"
+  },
+  "homepage": "https://github.com/Jsevillap/Vallarta-Rents#readme"
+}
